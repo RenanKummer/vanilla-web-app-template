@@ -1,2 +1,2 @@
-# vanilla-web-app-template
-Web Application Template (Without Frameworks or Libraries)
+# Vanilla Web Application Template
+Template repository to create web applications without specific frameworks or libraries.
